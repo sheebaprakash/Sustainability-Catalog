@@ -31,7 +31,7 @@ const GrandChallenge: React.FC = () => {
                   </ul>
               <br />
                   Link to 2024 Grand challenge: {' '}
-                  <a href="https://enter.innovationgrandchallenge.ai/2024" className="text-blue-600 hover:underline">https://enter.innovationgrandchallenge.ai/2024</a>.
+                  <a href="https://enter.innovationgrandchallenge.ai/2024" className="text-blue-600 hover:underline">https://enter.innovationgrandchallenge.ai/2024</a>
               
 2024 Grand Challenge Winner - Dr. Letetia Addison of Trinidad and Tobago, for her “AI-Driven Climate Resilience Platform for SIDS.” 
                 
